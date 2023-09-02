@@ -1,0 +1,10 @@
+.form-container {
+    max-width: 400px;
+    padding: 1rem;
+}
+
+form {
+    padding: 24px;
+    border: solid 2px crimson;
+    border-radius: 24px;
+}
